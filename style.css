@@ -1,0 +1,23 @@
+.card>div {
+    border: 5px solid rgb(11, 135, 207);
+    width: 500px;
+    border-radius: 30px;
+    background-color: rgb(207, 195, 250);
+    margin-bottom: 10px;
+    padding: 10px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+.card h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+.header {
+    text-align: center;
+    font-size: 3em;
+    background-color: blue;
+    color: white;
+    margin-top: 0px;
+}
+
